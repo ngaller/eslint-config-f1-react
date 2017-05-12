@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nicocrm",
+  "repository": "github:nicocrm/eslint-config-f1-react",
   "license": "MIT",
   "dependencies": {
     "eslint-config-f1": "lastest",
