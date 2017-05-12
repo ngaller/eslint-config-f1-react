@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-f1-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My ESLint configuration for React dev",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "repository": "github:nicocrm/eslint-config-f1-react",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-f1": "lastest",
+    "eslint-config-f1": "latest",
     "eslint-plugin-react": "latest"
   },
   "peerDependencies": {
