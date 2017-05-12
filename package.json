@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-f1-react",
+  "version": "1.0.0",
+  "description": "My ESLint configuration for React dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nicocrm",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-f1": "lastest",
+    "eslint-plugin-react": "latest"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
